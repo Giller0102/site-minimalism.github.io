@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+  body a {
+    text-decoration: none;
+    cursor: pointer; }
+  body button {
+    border: none;
+    cursor: pointer; }
+  body .container {
+    width: 940px;
+    margin: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */
